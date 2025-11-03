@@ -1,4 +1,4 @@
-# cv-site
+# THis guy stinks!!!
 
 Contains the source code for my personal website, samneisewander.com
 
